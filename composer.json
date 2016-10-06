@@ -1,0 +1,21 @@
+{
+    "name": "vuer/notes",
+    "type": "utils",
+    "license": "MIT",
+    "description": "Model notes.",
+    "keywords": ["vuer","laravel","notes","noteable","model notes"],
+    "authors": [
+        {
+            "name": "vuer",
+            "email": "rafal.szymanski@post.pl"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Vuer\\Notes\\": "src"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {}
+}
