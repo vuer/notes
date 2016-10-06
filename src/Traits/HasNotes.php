@@ -53,4 +53,15 @@ trait HasNotes
     {
         return $this->notes()->where($primaryKey, $id)->first();
     }
+
+    /**
+     * Create or update a note matching the attributes, and fill it with values.
+     * @param  array $attributes
+     * @param  array $values
+     * @return boolean
+     */
+    public function updateOrCreateNote($attributes, $values)
+    {
+        return $this->note()->updateOrCreate($attributes, $values);
+    }
 }
