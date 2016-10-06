@@ -1,5 +1,7 @@
 # Notes (Laravel 5 Package)
 
+[![Latest Stable Version](https://poser.pugx.org/vuer/notes/v/stable)](https://packagist.org/packages/vuer/notes) [![Total Downloads](https://poser.pugx.org/vuer/notes/downloads)](https://packagist.org/packages/vuer/notes) [![Latest Unstable Version](https://poser.pugx.org/vuer/notes/v/unstable)](https://packagist.org/packages/vuer/notes) [![License](https://poser.pugx.org/vuer/notes/license)](https://packagist.org/packages/vuer/notes)
+
 ## Installation
 
 You can install this package via composer using this command:
